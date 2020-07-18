@@ -1,2 +1,2 @@
-# use-browser-notification
-A simple hook that shows browser notification
+# useBrowserNotification
+A simple hook that shows browser notification.
